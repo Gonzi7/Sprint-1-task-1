@@ -1,5 +1,5 @@
 # Sprint-1-task-1
-Git and Github (Tema 0)
+Git and Github (Topic 0)
 First task goals
 - Create a repository to display activities.
 - Work locally with the repository.
